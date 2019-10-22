@@ -14,4 +14,4 @@ Make sure to have a netcat listener waiting on the port you specify before pingi
 This demonstrates how a user-land script/app can be invoked from the kernel
 
 This functionality will be added as part of the final rootkit that is being
-developed as part of this project http://r00tkit.me/
+developed as part of this project https://web.archive.org/web/20190119045332/https://r00tkit.me/
